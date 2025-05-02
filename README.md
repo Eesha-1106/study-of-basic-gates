@@ -24,6 +24,7 @@ Y= A.B
 The OR gate is an electronic circuit that gives a high output (1) if one or more of its inputs are high. A plus (+) is used to show the OR operation.
 Y= A+B
 
+
 **NOT gate**
 
 The NOT gate is an electronic circuit that produces an inverted version of the input at its output. It is also known as an inverter. If the input variable is A, the inverted output is known as NOT A. This is also shown as A' or A with a bar over the top, as shown at the outputs.
@@ -48,6 +49,7 @@ Y= A⊕B
 
 The 'Exclusive-NOR' gate circuit does the opposite to the EX-OR gate. It will give a low output if either, but not both of its two inputs are high. The symbol is an EX-OR gate with a small circle on the output. The small circle represents inversion.
 Y= A⊕B
+
 
 **Procedure** 
 
@@ -85,6 +87,9 @@ endmodule
 
  
 **Logic symbol & Truthtable**
+
+![image](https://github.com/user-attachments/assets/bc9ef6b5-6378-4b8a-9f6e-25afa605c65f)
+
 
 **RTL realization Output:** 
 ![WhatsApp Image 2025-03-28 at 12 00 02_07d05f6c](https://github.com/user-attachments/assets/394a53bf-65f1-4232-b909-8ed45ba145e0)
